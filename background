@@ -1,4 +1,14 @@
-<!Doctype html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8" />
+  <title>Page Title: Site Name</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+	<link rel="stylesheet" href="css/screen.css" />
+</head>
+<body>
 
 My name is Michael DeAnda. I was born and reared in "Borderland City," El Paso, TX. I began
 playing computer games at age two, when my sister brought home a floppy disk containing "Frogger."
@@ -15,3 +25,6 @@ this class, I decided to pursue a second major in philosophy.
 I am now a Ph.D. candidate at Illinois Institute of Technology.
 
 My future goals are to:
+
+</body>
+</html>
