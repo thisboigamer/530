@@ -20,7 +20,7 @@ html {
 .headerCover {
   height: 200px;
   background-image: url('image/kazaky.jpg');
-  background-size: cover;
+  background-size: contain;
   border: 2px solid darkgray;
   color: #000; text-shadow: 1px 1px 0 #fff;
   }
