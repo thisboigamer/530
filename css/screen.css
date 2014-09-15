@@ -15,13 +15,33 @@ html {
 	line-height: 24px;
 	font-size: 19px;
 	font-size:1.1875em;
-
 }
+
+.headerCover {
+  height: 200px;
+  background-image: url('image/kazaky.jpg');
+  background-size: cover;
+  border: 2px solid darkgray;
+  color: #000; text-shadow: 1px 1px 0 #fff;
+  }
+
 h1 {
 	font-weight: bold;
 	font-size: 36px;
 	line-height: 48px;
+	color: green;
+
 }
+
+h2 {
+  font-size: 32px;
+  line-height: 48px;
+
+}
+
+h3 {
+  font-style: italic;
+  }
 
 p {
 	margin: 24px;
