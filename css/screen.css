@@ -21,7 +21,6 @@ html {
   height: 200px;
   background-image: url('image/kazaky.jpg');
   background-size: contain;
-  border: 2px solid darkgray;
   color: #000; text-shadow: 1px 1px 0 #fff;
   }
 
@@ -46,3 +45,8 @@ h3 {
 p {
 	margin: 24px;
 }
+
+ul {
+  margin: 48px;
+  font-size: 18;
+  }
