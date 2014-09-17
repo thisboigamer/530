@@ -19,10 +19,10 @@ html {
 
 .headerCover {
   height: 200px;
-  background-image: url('image/kazaky.jpg');
-  background-size: contain;
+  background-image: url('image/this-boi-gamer-header02.jpg');
+  background-size: cover;
   color: #000; text-shadow: 1px 1px 0 #fff;
-  }
+}
 
 h1 {
 	font-weight: bold;
